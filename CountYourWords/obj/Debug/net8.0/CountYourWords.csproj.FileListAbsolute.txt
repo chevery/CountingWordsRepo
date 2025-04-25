@@ -1,0 +1,15 @@
+C:\Users\Chevery\source\repos\CountYourWords\obj\Debug\net8.0\CountYourWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chevery\source\repos\CountYourWords\obj\Debug\net8.0\CountYourWords.AssemblyInfoInputs.cache
+C:\Users\Chevery\source\repos\CountYourWords\obj\Debug\net8.0\CountYourWords.AssemblyInfo.cs
+C:\Users\Chevery\source\repos\CountYourWords\obj\Debug\net8.0\CountYourWords.csproj.CoreCompileInputs.cache
+C:\Users\Chevery\source\repos\CountYourWords\obj\Debug\net8.0\CountYourWords.sourcelink.json
+C:\Users\Chevery\source\repos\CountYourWords\bin\Debug\net8.0\CountYourWords.exe
+C:\Users\Chevery\source\repos\CountYourWords\bin\Debug\net8.0\CountYourWords.deps.json
+C:\Users\Chevery\source\repos\CountYourWords\bin\Debug\net8.0\CountYourWords.runtimeconfig.json
+C:\Users\Chevery\source\repos\CountYourWords\bin\Debug\net8.0\CountYourWords.dll
+C:\Users\Chevery\source\repos\CountYourWords\bin\Debug\net8.0\CountYourWords.pdb
+C:\Users\Chevery\source\repos\CountYourWords\obj\Debug\net8.0\CountYourWords.dll
+C:\Users\Chevery\source\repos\CountYourWords\obj\Debug\net8.0\refint\CountYourWords.dll
+C:\Users\Chevery\source\repos\CountYourWords\obj\Debug\net8.0\CountYourWords.pdb
+C:\Users\Chevery\source\repos\CountYourWords\obj\Debug\net8.0\CountYourWords.genruntimeconfig.cache
+C:\Users\Chevery\source\repos\CountYourWords\obj\Debug\net8.0\ref\CountYourWords.dll
